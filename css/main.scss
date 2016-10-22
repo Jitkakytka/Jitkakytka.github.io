@@ -42,4 +42,9 @@ $on-laptop:        800px;
 
 .post-link {
   font-weight:bold; 
-  }
+}
+
+img {
+  margin: 5px 0 10px 0;
+  border: 2px solid $brand-color;
+}
